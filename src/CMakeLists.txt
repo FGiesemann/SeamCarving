@@ -1,5 +1,6 @@
 add_executable(seamcarving
-	seamcarving.cpp
+	Demo.cpp
+	SeamCarving.cpp
 	main.cpp
 )
 
